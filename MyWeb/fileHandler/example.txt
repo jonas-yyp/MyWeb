@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<title>Mein Titel</title>
+		<link rel="stylesheet" href="index.css">
+	</head>
+	<body>
+
+
+
+		�berschrift: Html Grundlagen
+
+		Hallo Welt<br>
+
+		<br>
+
+		
+
+		<b>Hallo</b> <u>Welt</u><br>
+
+		<br>
+
+		<button id="button1">Ich bin ein Button</button><br>
+		<input id="input1" value="Hallo Welt">
+
+		<br>
+
+		<div class="name_fuer_css_0">
+			Lorem
+			<div class="name_fuer_css_1">
+				Ipsum
+			</div>
+			Dolor
+		</div>
+
+		<br>
+
+		<div class="name_fuer_css_2">
+			Mit fester Breite
+		</div>
+
+		<br>
+
+
+
+		�berschrift: Dokumentation
+
+
+		<a href="https://www.w3schools.com/html/">www.w3schools.com/html/</a><br>
+		<a href="https://wiki.selfhtml.org/wiki/Wie_fange_ich_an%3F">wiki.selfhtml.org - Wie fange ich an?</a><br>
+
+		<br>
+
+		CSS - Selektor<br>
+		https://wiki.selfhtml.org/wiki/CSS/Tutorials/Selektoren/einfacher_Selektor<br>
+
+
+		Link zu: Beispiel_Taschenrechner.png
+
+
+
+		Aufgaben:
+		- Html/CSS lernen bzw. verstehen
+		- index.html aufh�bschen
+		- Taschenrechner mit Buttons nachbauen
+
+		- Eventuell Javascript:
+		  + Grundlagen
+		  + Callbacks ("onclick")
+		  + Buttons mit Funktion ausstatten
+		  + Eingabezeile mit Funktion ausstatten
+
+			
+
+
+		<script src="index.js"></script>
+	</body
+
+	<h2>
+		<Title>
+			HTML Taschenrechner
+		</Title>
+	</h2>
+</html>

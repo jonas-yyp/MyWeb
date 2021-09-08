@@ -1,0 +1,57 @@
+
+.name_fuer_css_0 {
+	color: white;
+	background-color: steelblue;
+}
+
+.name_fuer_css_1 {
+	color: white;
+	background-color: darkgreen;
+}
+
+
+.name_fuer_css_2 {
+	width: 90px;	/* 90%; */
+	height: 90px;	/* 90%; */
+	background-color: gray;
+}
+
+.button{
+    background-image:url("https://th.bing.com/th/id/OIP.AyajTrU5LiGi2RIZQXKZ4QHaDx?w=304&h=178&c=7&r=0&o=5&pid=1.7");
+    width: 50px;
+    height: 50px;
+}
+
+#input1{
+    background-color: #cfcdd6;
+    width: 200px;
+    height: 50px;
+}
+
+h1{
+
+    color: rgb(101, 150, 240);
+    font-size: 50px;
+}
+
+h2{
+
+    color: rgb(55, 0, 255);
+    font-size: 30px;
+}
+
+html{
+    background-size: 200%;
+    background-image:url("https://lerch-genuss.de/wp-content/uploads/2018/07/Das-Weitblick-Allg%C3%A4u-Aussicht-1024x695.jpg");
+}
+
+hr{
+    height: 3px;
+    background-color: rgb(55, 0, 255);
+    border: none;
+}
+
+.button:hover{
+    background-color: rgb(255, 255, 255);
+}
+
